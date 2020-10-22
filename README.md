@@ -111,13 +111,5 @@ private static String qrcode = "/home/pi/image/image.jpg";
 	   		 	}
 	   	}
 	 }	   	
-六、硬件部分
-
-
-七、系统部分
-
-
-八、工作原理图
-
 
  
